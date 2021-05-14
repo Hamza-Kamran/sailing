@@ -1,0 +1,14 @@
+h4 {
+  text-align: center;
+}
+#boats {
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#boats-text {
+  font-size: 18px;
+  text-align: center; 
+}
